@@ -1,0 +1,27 @@
+body{
+    background-image: url('https://genhq.com/wp-content/uploads/2018/06/Space-Travel.gif');
+    background-repeat: no-repeat;
+    background-size: 190vh 100vh;
+}
+#signin-main{
+    border: 2px solid rgba(0, 0, 255, .2);
+    width: 40%;
+    height: 50vh;
+    border-radius: 10px;
+    background-image: url('https://webartdevelopers.com/blog/wp-content/uploads/2019/02/Pure-CSS3-Gradient-Background-Animation.gif');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.signin-form{
+    display: grid;
+}
+.form-signin-inpt{
+    width: 50%;
+border: 1px solid rgba(0, 0, 255, .2);
+border-radius: 5px;
+box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
+#btn{
+    width: 14%;
+    box-shadow: 12px 12px 2px 1px #90ee90;
+    }

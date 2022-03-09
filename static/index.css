@@ -1,0 +1,58 @@
+body{
+    background-image: url('https://i.pinimg.com/originals/6f/fe/ae/6ffeae089199b045d0e52aa7aa69db14.gif');
+    background-repeat: no-repeat;
+    background-size: 190vh 100vh;
+}
+
+li{
+    list-style: none;
+}
+.contact-frm{
+    display: grid;
+}
+
+.c-frm-inpt{
+width: 35%;
+border-radius: 5px;
+border: 1px solid #F8C146;
+box-shadow: 12px 12px 2px 1px #F8C146;
+}
+
+#c-btn-frm{
+    width: 14%;
+    box-shadow: 12px 12px 2px 1px #90ee90;
+}
+
+#signout-btn{
+    box-shadow: 12px 12px 2px 1px#F07E7D;
+}
+
+.trash{
+    width: 70px;
+    height: 70px;
+}
+.del-btn{
+    border-radius: 50%;
+}
+.logo-img{
+    height: 52px;
+   
+}
+.profile-img{
+    border-radius: 50%;
+    height: 180px;
+    width: 180px;
+}
+
+
+.parent{
+    display: flex;
+}
+.child-1{
+    flex: 1;
+}
+
+.child-2{
+    flex: 2;
+    margin-right: 8px;
+}
